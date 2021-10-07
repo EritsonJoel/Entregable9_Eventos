@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: skyblue;
+}
+
+.formulario {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  margin: 0 auto;
+  position: relative;
+}
+
+.formulario_input {
+  position: absolute;
+  left: 5em;
+  top: 5em;
+}
